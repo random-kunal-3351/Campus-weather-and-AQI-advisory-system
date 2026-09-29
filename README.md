@@ -19,4 +19,4 @@ This project is a Command Line Interface (CLI) application built in Python to he
 ## Steps to Install & Run
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/uditagarwal0708/Campus-Health-AQI-System.git](https://github.com/uditagarwal0708/Campus-Health-AQI-System.git)
+   git clone [https://github.com/random-kunal-3351/Campus-weather-and-AQI-advisory-system.git](https://github.com/random-kunal-3351/Campus-weather-and-AQI-advisory-system.git)
