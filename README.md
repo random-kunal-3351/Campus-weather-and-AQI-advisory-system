@@ -1,4 +1,4 @@
-# Campus Health and AQI Advisory System
+# Campus Weather and AQI Advisory System
 
 ## Overview
 This project is a Command Line Interface (CLI) application built in Python to help university campuses monitor daily air pollution levels. It takes the daily Air Quality Index (AQI) as input and automatically generates official health advisories (like mandating masks or suspending outdoor sports) based on Central Pollution Control Board (CPCB) standards. The system uses native Python file handling to permanently save daily records without needing a complex database.
@@ -17,6 +17,6 @@ This project is a Command Line Interface (CLI) application built in Python to he
 * **Built-in Modules:** `os`, `datetime`
 
 ## Steps to Install & Run
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine using your terminal or command prompt:
    ```bash
    git clone [https://github.com/random-kunal-3351/Campus-weather-and-AQI-advisory-system.git](https://github.com/random-kunal-3351/Campus-weather-and-AQI-advisory-system.git)
